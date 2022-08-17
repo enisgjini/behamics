@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  background-color: #293b91;
+  color: white;
+  width: 455px;
+  align-items: center;
+}
+
+/* Change width of image */
+img {
+  width: 60px;
+  object-fit: cover;
+  margin-right: 5px;
+}
+
+/* Modify aligment of "x" icon */
+i {
+  margin-bottom: 100px;
+  margin-left: 60px;
+  margin-top: 5px;
+  font-size: 24px;
+}
